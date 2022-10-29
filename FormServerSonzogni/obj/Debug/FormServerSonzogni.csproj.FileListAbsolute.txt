@@ -1,0 +1,10 @@
+C:\Users\Utente\Desktop\FormSocketSonzogni\tps-5ib-22-socketrandomnumber01\FormServerSonzogni\bin\Debug\FormServerSonzogni.exe.config
+C:\Users\Utente\Desktop\FormSocketSonzogni\tps-5ib-22-socketrandomnumber01\FormServerSonzogni\bin\Debug\FormServerSonzogni.exe
+C:\Users\Utente\Desktop\FormSocketSonzogni\tps-5ib-22-socketrandomnumber01\FormServerSonzogni\bin\Debug\FormServerSonzogni.pdb
+C:\Users\Utente\Desktop\FormSocketSonzogni\tps-5ib-22-socketrandomnumber01\FormServerSonzogni\obj\Debug\FormServerSonzogni.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\FormSocketSonzogni\tps-5ib-22-socketrandomnumber01\FormServerSonzogni\obj\Debug\FormServerSonzogni.Form1.resources
+C:\Users\Utente\Desktop\FormSocketSonzogni\tps-5ib-22-socketrandomnumber01\FormServerSonzogni\obj\Debug\FormServerSonzogni.Properties.Resources.resources
+C:\Users\Utente\Desktop\FormSocketSonzogni\tps-5ib-22-socketrandomnumber01\FormServerSonzogni\obj\Debug\FormServerSonzogni.csproj.GenerateResource.cache
+C:\Users\Utente\Desktop\FormSocketSonzogni\tps-5ib-22-socketrandomnumber01\FormServerSonzogni\obj\Debug\FormServerSonzogni.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\FormSocketSonzogni\tps-5ib-22-socketrandomnumber01\FormServerSonzogni\obj\Debug\FormServerSonzogni.exe
+C:\Users\Utente\Desktop\FormSocketSonzogni\tps-5ib-22-socketrandomnumber01\FormServerSonzogni\obj\Debug\FormServerSonzogni.pdb
